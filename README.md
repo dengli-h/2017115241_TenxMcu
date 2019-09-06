@@ -7,7 +7,7 @@
 1. 下载安装 IDE 工具 [keil C51](https://www.keil.com/download/product/)，[十速的keil 插件](http://www.tenx.com.tw/product_tools_detail.aspx?ToolsID=100)。
 2. 下载安装 [vscode](https://code.visualstudio.com/)，课程使用 vscode 编辑。
 3. 下载安装 git 客户端 [sourcetree](https://www.sourcetreeapp.com/)，课程使用 sourcetree 和 [github](http://www.github.com) 作为项目管理和协作系统。
-4. git 入门请读[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其[英文版](https://git-scm.com/book/en/v2)。
+4. git 入门请读 [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其[英文版](https://git-scm.com/book/en/v2)。
 
 ### 二、课程目录结构
 
@@ -24,7 +24,7 @@
 >提醒课程的使用者特别关注以下几点：
 
 1. 基于Git 分布式版本管理系统的协作能力。
-2. MarKDown 文档的写作能力。
+2. MarKDown 文档的写作能力，请阅读 [MarkDown 写作指南](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)。
 3. 嵌入式 C 语言中的 volatile、const、interrupt 等几个关键词后面的理论含义。
 4. 形成自己的编程风格和规范，课程会给出一种风格规范。
 5. 嵌入式常规仪器（万用表，逻辑分析仪，示波器等）的使用能力训练，嵌入式程序员易忽略此点。
