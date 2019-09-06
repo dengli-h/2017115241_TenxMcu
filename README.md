@@ -7,7 +7,7 @@
 1. 下载安装 IDE 工具 [keil C51](https://www.keil.com/download/product/)，[十速的keil 插件](http://www.tenx.com.tw/product_tools_detail.aspx?ToolsID=100)。
 2. 下载安装 [vscode](https://code.visualstudio.com/)，课程使用 vscode 编辑。
 3. 下载安装 git 客户端 [sourcetree](https://www.sourcetreeapp.com/)，课程使用 sourcetree 和 [github](http://www.github.com) 作为项目管理和协作系统。
-4. 阅读 [git 指南](https://gitee.com/progit/) 或其[英文版](https://git-scm.com/book/en/v2)。
+4. git 入门请读[Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)，进阶请阅读 [git 权威指南](https://gitee.com/progit/) 或其[英文版](https://git-scm.com/book/en/v2)。
 
 ### 二、课程目录结构
 
